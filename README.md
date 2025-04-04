@@ -29,4 +29,11 @@ Just download the .html file and run in a web broswer, and that's it!
 - **Local Storage**: All data is stored locally in the `localStorage` of your web browser. No external database calls are made, and no data is shared with any third party. Your data never leaves your local machine.
 
 
+## Features Not Supported
+
+- **Cross-device sharing**: Because the application stores everything in the local web browser, there is no built-in capability to share prompts across multiple devices. This would require a database, a backend API, and multi-user login security, which is beyond the scope of this project. However, if you only need this for yourself, you could easily modify the code using any LLM to store the prompts in a database.
+
+
+## Screenshot of The Application
+
 ![Prompt Composer Screenshot](https://raw.githubusercontent.com/goossaert/prompt-composer/refs/heads/main/screenshot/prompt-composer-screenshot-01.jpeg)
