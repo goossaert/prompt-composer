@@ -27,3 +27,6 @@ Just download the .html file and run in a web broswer, and that's it!
 - **Preview & Copy**: Whenever you load up a prompt, you'll get a live preview that updates with your chosen variables, templates, etc. Then it's just one click to copy the final text.
 
 - **Local Storage**: All data is stored locally in the `localStorage` of your web browser. No external database calls are made, and no data is shared with any third party. Your data never leaves your local machine.
+
+
+![Prompt Composer Screenshot](https://raw.githubusercontent.com/goossaert/prompt-composer/refs/heads/master/screenshots/prompt-composer-screenshot-01.jpeg)
